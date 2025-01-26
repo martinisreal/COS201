@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Two_Dimension {
+public class Assignment_5 {
     public static void main(String[] args) {
         int[][] array = new int[11][11];
         Scanner input = new Scanner(System.in);
